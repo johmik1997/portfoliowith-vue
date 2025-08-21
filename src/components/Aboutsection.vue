@@ -28,10 +28,8 @@
                     <span class="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">About</span>
                     Me
                 </h2>
-                <p class="text-base lg:text-lg mt-8 py-8">I am yohannes Getaneh with skill and experiance of web development and i also movement on mobile development,graphics design,and software engeenering stuff
-                    i am passionated on the nature ,i like communicate with person whatever their age is finally
-                    i am happy if you contact me
-                </p>
+                <p class="text-base lg:text-lg mt-8 py-8">I am Yohannes Getaneh, a skilled and experienced web developer with experience in mobile development, UI/UX design, and software engineering. I am passionate about nature and enjoy connecting with people of all ages. I am enthusiastic, open to collaboration, and always happy to be contacted for new opportunities or projects
+                    </p>
                 <div class="grid grid-cols-3 gap-4 max-w-lg pt-8">
                     <!-- <div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">
                         <h3 class="text-white font-bold text-xl sm:text-2xl lg:text-3xl">+200</h3>
@@ -62,7 +60,13 @@ const education=ref([
     },
     {
         id:2,
-        School:'udemy',
+        School:'Udacity',
+        program:'Mobile development with kotlin',
+        year:'2023'
+    },
+    {
+        id:3,
+        School:'Huwaie',
         program:'Mobile development with kotlin',
         year:'2023'
     }

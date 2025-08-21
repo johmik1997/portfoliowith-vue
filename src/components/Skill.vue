@@ -50,8 +50,8 @@ import { ref } from 'vue';
 const Skills =ref([
     {
         id:1,
-        name:'HTmL & CSS',
-        width:'85%'
+        name:'HTmL & CSS & taliwind-css',
+        width:'95%'
     },
     {
         id:2,
@@ -65,7 +65,7 @@ const Skills =ref([
     },
     {
         id:4,
-        name:'nuxt-3',
+        name:'vue-3 & nuxt-3',
         width:'91%'
     },
     {
@@ -75,7 +75,27 @@ const Skills =ref([
     },
     {
         id:5,
-        name:'Golang and GraphQl',
+        name:'Golang and GraphQl & Rest API',
+        width:'80%'
+    },
+    {
+        id:6,
+        name:'Flutter',
+        width:'89%'
+    },
+    {
+        id:7,
+        name:'Spring-boot',
+        width:'90%'
+    },
+    {
+        id:8,
+        name:'Hasura',
+        width:'80%'
+    },
+    {
+        id:8,
+        name:'MERN(MongoDb Express React Node.js)',
         width:'80%'
     },
 ]);
