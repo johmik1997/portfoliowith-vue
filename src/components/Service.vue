@@ -53,14 +53,14 @@ const services = ref([
     {
         id: 5,
         icon: 'https://img.icons8.com/ios-filled/100/ffffff/windows10-personalization.png',
-        name: 'Graphic Design',
-        description: 'i am tring to work graphic design i have taken graphics course previously, currently i am not active but i have done for my web design in addition to Figma '
+        name: 'UI/UX Designer',
+        description: 'i am tring to work figma design i have taken figma course previously, currently i am not active but i have done for my web design in addition to Figma '
     },
     {
         id: 6,
         icon: 'https://img.icons8.com/ios-filled/100/ffffff/web-design.png',
-        name: 'Web Design',
-        description: 'i am not active but i have a little experiance with Figma'
+        name: 'Network Enginner',
+        description: 'I have hands-on experience in configuring and managing network devices, understanding routing and switching concepts, and implementing basic cloud services, enabling secure and efficient network solutions.'
     },
 ]);
 </script>

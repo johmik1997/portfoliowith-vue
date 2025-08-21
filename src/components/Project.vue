@@ -81,6 +81,46 @@ const Projects = ref([
         webURL: ''
     },
     {
+        id: 9,
+        category: 'Mobile App',
+        image: 'src/assets/mobile.jpg',
+        title: 'Ethiopian Drug Information System(EDIS)',
+        description: 'The project is a digital healthcare support system that connects doctors and pharmacists to improve patient care using Ethiopia’s drug information database. Doctors can post medical queries, and pharmacists can search a local drug knowledge base to provide accurate, timely feedback. Built with a Flutter mobile app, a Spring Boot backend, and PostgreSQL, the system ensures secure user authentication, role-based access, and efficient communication between medical professionals, enhancing clinical decision-making and leveraging local pharmaceutical knowledge.🚀',
+        technologies: ['Flutter', 'Spring-boot', 'Postgresql'],
+        gitURL: '',
+        webURL: ''
+    },
+    {
+        id: 9,
+        category: 'Mobile App',
+        image: 'src/assets/mobile.jpg',
+        title: 'MusicNest',
+        description: 'MusicNest is a modern music platform that allows users to discover, stream, and manage their favorite songs seamlessly. Built with a robust backend and an intuitive frontend, it supports features like playlists, song search, and personalized recommendations. The platform focuses on delivering a smooth, engaging experience for music lovers while maintaining fast performance and secure user management.',
+        technologies: ['Flutter', 'Spring-boot', 'Postgresql'],
+        gitURL: '',
+        webURL: ''
+    },
+    {
+        id: 8,
+        category: 'Mobile App',
+        image: 'src/assets/mobile.jpg',
+        title: 'Ethiopian Drug Information System(EDIS)',
+        description: 'The project is a digital healthcare support system that connects doctors and pharmacists to improve patient care using Ethiopia’s drug information database. Doctors can post medical queries, and pharmacists can search a local drug knowledge base to provide accurate, timely feedback. Built with a Flutter mobile app, a Spring Boot backend, and PostgreSQL, the system ensures secure user authentication, role-based access, and efficient communication between medical professionals, enhancing clinical decision-making and leveraging local pharmaceutical knowledge.🚀',
+        technologies: ['Flutter', 'Spring-boot', 'Postgresql'],
+        gitURL: '',
+        webURL: ''
+    },
+    {
+        id: 8,
+        category: 'Mobile App',
+        image: 'src/assets/mobile.jpg',
+        title: 'Community Based Health Insurance(CBHI) renwal app',
+        description: 'The Community Based Health Insurance (CBHI) Renewal App enables users to log in securely via phone number with OTP verification, search their insurance records using their ID, view payment details, and renew their insurance conveniently using Chapa for seamless digital payments. The app streamlines CBHI management, making enrollment and renewal faster, transparent, and user-friendly.',
+        technologies: ['Flutter', 'Spring-boot', 'Postgresql'],
+        gitURL: '',
+        webURL: ''
+    },
+    {
         id: 3,
         category: 'web development',
         image: 'src/assets/Gebeya.png',
